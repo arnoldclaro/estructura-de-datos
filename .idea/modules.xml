@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/estructura-de-datos.iml" filepath="$PROJECT_DIR$/estructura-de-datos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos.iml" filepath="$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos-arraylist/sistema-de-contactos-arraylist.iml" filepath="$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos-arraylist/sistema-de-contactos-arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-monitoreo/sistema-monitoreo.iml" filepath="$PROJECT_DIR$/sistema-monitoreo/sistema-monitoreo.iml" />
     </modules>
   </component>
