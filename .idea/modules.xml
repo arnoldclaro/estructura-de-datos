@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/lista simple/Ranking-de-videjuegos/Ranking-de-videjuegos.iml" filepath="$PROJECT_DIR$/lista simple/Ranking-de-videjuegos/Ranking-de-videjuegos.iml" />
       <module fileurl="file://$PROJECT_DIR$/estructura-de-datos.iml" filepath="$PROJECT_DIR$/estructura-de-datos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/historial-de-navegacion/historial-de-navegacion.iml" filepath="$PROJECT_DIR$/lista simple/historial-de-navegacion/historial-de-navegacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listas enlazadas/ranking-de-videojuegos/ranking-de-videojuegos.iml" filepath="$PROJECT_DIR$/listas enlazadas/ranking-de-videojuegos/ranking-de-videojuegos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos.iml" filepath="$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/sistema-de-contactos-arraylist/sistema-de-contactos-arraylist.iml" filepath="$PROJECT_DIR$/lista simple/sistema-de-contactos-arraylist/sistema-de-contactos-arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-monitoreo/sistema-monitoreo.iml" filepath="$PROJECT_DIR$/sistema-monitoreo/sistema-monitoreo.iml" />
