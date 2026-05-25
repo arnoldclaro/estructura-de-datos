@@ -1,7 +1,8 @@
 public class ListaContactos {
     private Nodo cabeza;
 
-    public ListaContactos(Nodo cabeza){
+    public ListaContactos(){
+        this.cabeza = cabeza;
         cabeza = null;
     }
 

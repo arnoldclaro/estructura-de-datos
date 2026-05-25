@@ -4,17 +4,30 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lista simple/Ranking-de-videjuegos/Ranking-de-videjuegos.iml" filepath="$PROJECT_DIR$/lista simple/Ranking-de-videjuegos/Ranking-de-videjuegos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/Ranking-de-videojuegos/Ranking-de-videojuegos1.1.iml" filepath="$PROJECT_DIR$/lista simple/Ranking-de-videojuegos/Ranking-de-videojuegos1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arboles/arboles.iml" filepath="$PROJECT_DIR$/arboles/arboles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inicio de estructura de datos/arreglo-entero/arreglo-entero.iml" filepath="$PROJECT_DIR$/inicio de estructura de datos/arreglo-entero/arreglo-entero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arboles/ejercicio 1/ejercicio 1.iml" filepath="$PROJECT_DIR$/arboles/ejercicio 1/ejercicio 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arboles/ejercicio 2/ejercicio 2.iml" filepath="$PROJECT_DIR$/arboles/ejercicio 2/ejercicio 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arboles/ejercicio 3/ejercicio 3.iml" filepath="$PROJECT_DIR$/arboles/ejercicio 3/ejercicio 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arboles/ejercicio 4/ejercicio 4.iml" filepath="$PROJECT_DIR$/arboles/ejercicio 4/ejercicio 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/estructura-de-datos.iml" filepath="$PROJECT_DIR$/estructura-de-datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilas y colas/fila-bancaria-cola/fila-bancaria-cola.iml" filepath="$PROJECT_DIR$/pilas y colas/fila-bancaria-cola/fila-bancaria-cola.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/historial-de-navegacion/historial-de-navegacion.iml" filepath="$PROJECT_DIR$/lista simple/historial-de-navegacion/historial-de-navegacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilas y colas/impresora/impresora.iml" filepath="$PROJECT_DIR$/pilas y colas/impresora/impresora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inicio de estructura de datos/inicio de estructura de datos.iml" filepath="$PROJECT_DIR$/inicio de estructura de datos/inicio de estructura de datos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilas y colas/inversion-cadena-pila/inversion-cadena-pila.iml" filepath="$PROJECT_DIR$/pilas y colas/inversion-cadena-pila/inversion-cadena-pila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inicio de estructura de datos/lista-enlazada/lista-enlazada.iml" filepath="$PROJECT_DIR$/inicio de estructura de datos/lista-enlazada/lista-enlazada.iml" />
       <module fileurl="file://$PROJECT_DIR$/listas-circulares/listas-circulares.iml" filepath="$PROJECT_DIR$/listas-circulares/listas-circulares.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilas y colas/navegador/navegador.iml" filepath="$PROJECT_DIR$/pilas y colas/navegador/navegador.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilas y colas/pilas y colas.iml" filepath="$PROJECT_DIR$/pilas y colas/pilas y colas.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/ranking-de-juegos/ranking-de-juegos.iml" filepath="$PROJECT_DIR$/lista simple/ranking-de-juegos/ranking-de-juegos.iml" />
       <module fileurl="file://$PROJECT_DIR$/listas enlazadas/ranking-de-videojuegos/ranking-de-videojuegos.iml" filepath="$PROJECT_DIR$/listas enlazadas/ranking-de-videojuegos/ranking-de-videojuegos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-de-calificaciones-multidimensinal/sistema-de-calificaciones-multidimensinal.iml" filepath="$PROJECT_DIR$/sistema-de-calificaciones-multidimensinal/sistema-de-calificaciones-multidimensinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos.iml" filepath="$PROJECT_DIR$/lista simple/sistema-de-contactos/sistema-de-contactos.iml" />
       <module fileurl="file://$PROJECT_DIR$/lista simple/sistema-de-contactos-arraylist/sistema-de-contactos-arraylist.iml" filepath="$PROJECT_DIR$/lista simple/sistema-de-contactos-arraylist/sistema-de-contactos-arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-financiero/sistema-financiero.iml" filepath="$PROJECT_DIR$/sistema-financiero/sistema-financiero.iml" />
       <module fileurl="file://$PROJECT_DIR$/sistema-monitoreo/sistema-monitoreo.iml" filepath="$PROJECT_DIR$/sistema-monitoreo/sistema-monitoreo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pilas y colas/verificacion-equilibrio-pila/verificacion-equilibrio-pila.iml" filepath="$PROJECT_DIR$/pilas y colas/verificacion-equilibrio-pila/verificacion-equilibrio-pila.iml" />
     </modules>
   </component>
 </project>

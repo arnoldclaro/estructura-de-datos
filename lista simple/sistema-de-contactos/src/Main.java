@@ -16,8 +16,14 @@ public class Main {
      System.out.println("lista actual");
      lista.listar();
 
-     System.out.println("Buscar Ana: ");
+        System.out.println("\nBuscar Ana: ");
+        System.out.println(lista.buscar("Ana"));
 
+        System.out.println("\nEliminar Luis: ");
+        System.out.println(lista.eliminar("Luis"));
 
+        System.out.println("\nLista final");
+        lista.listar();
     }
 }
+
